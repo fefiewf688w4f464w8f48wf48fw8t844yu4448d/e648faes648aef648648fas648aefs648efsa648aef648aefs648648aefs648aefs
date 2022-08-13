@@ -1,1 +1,1 @@
-print("pipik")
+game.Players.LocalPlayer.Character.HumanoidRootPart.Name = "NotAnymoreLol"
